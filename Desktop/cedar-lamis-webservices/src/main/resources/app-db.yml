@@ -1,0 +1,17 @@
+## YAML Template.
+---
+cedar:
+     app:
+        instance:
+                id: lamis
+                version: 2.0    
+                base: dev
+                driver: org.h2.Driver
+                user: admin
+                password: admin
+                dbpath: C:\\Users\\Administrator\\Desktop\\lamisdb\\lamis
+               
+                
+
+                
+         
